@@ -1,4 +1,6 @@
-# Tauri + SvelteKit + TypeScript
+# Cedra
+
+![cedra logo](src-tauri/icons/128x128@2x.png)
 
 This template should help get you started developing with Tauri, SvelteKit and TypeScript in Vite.
 
